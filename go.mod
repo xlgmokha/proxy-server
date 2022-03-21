@@ -1,4 +1,4 @@
-module github.com/xlg-pkg/proxy-server
+module github.com/xlgmokha/proxy-server
 
 go 1.18
 
